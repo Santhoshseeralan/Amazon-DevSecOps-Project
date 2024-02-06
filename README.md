@@ -23,7 +23,7 @@ SONARQUBE:
 
 DEPENDENY-CHECK:
 
-![Amazon Clone - Google Chrome 05-02-2024 21_07_15](https://github.com/Santhoshseeralan/Amazon-DevSecOps-Project/assets/143958411/454e9017-d0b6-4137-888c-6fdb96d8d206)
+![Amazon Clone - Google Chrome 05-02-2024 21_06_23](https://github.com/Santhoshseeralan/Amazon-DevSecOps-Project/assets/143958411/2eb8c3cf-71e1-4ec6-a417-71b5ae3792f1)
 
 DOCKERHUB:
 
