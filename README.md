@@ -5,7 +5,7 @@ Amazon App Deployment: A DevSecOps Approach with Terraform and Jenkins CI/CD
 
 OUTPUT VIDEO:
 
-https://github.com/Santhoshseeralan/Amazon-DevSecOps-Project/assets/143958411/eedf322b-d7ae-443b-88ea-b58298c55bf1
+https://github.com/Santhoshseeralan/Amazon-DevSecOps-Project/assets/143958411/1748fc48-1dda-4948-89d8-56a5b188084b
 
 TERRAFORM:
 
